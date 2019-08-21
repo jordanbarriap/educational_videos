@@ -1,0 +1,1 @@
+multinomial distribution	0unigram language model	0unigram models	0language model	0language models	0multinomial probability	0bag of words	0multinomial coefficient	0document	0term vocabulary	0vocabulary	0likelihood ratio	0speech recognition	0ir	0model distribution	0query	0terms	0multinomial model	1training sample	0

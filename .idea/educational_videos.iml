@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/backup_1st_collection" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-1" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-1.1" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-1.2" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-1.3" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-1.4" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-12.1.1" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-12.1.2" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-12.1.3" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-12.2.1" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-12.2.2" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-12.4" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-13" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-13.1" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-13.2" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-13.3" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-13.4" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-13.5" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-13.6" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-15.1" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-15.2" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-15.3" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-15.4" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-16" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-16.1" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-16.2" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-16.3" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-16.4" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-16.4.1" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-16.5" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-2.1" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-2.2" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-2.3" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-2.4" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-3.1" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-3.2" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-3.3" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-3.4" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-4.1" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-4.2" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-4.3" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-4.4" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-4.5" />
+      <excludeFolder url="file://$MODULE_DIR$/iir-4.6" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 2.7.10 (/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>

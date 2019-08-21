@@ -1,0 +1,1 @@
+document space	0class	0classes	0labels	0high-dimensional space	0learning method	0learning algorithm	0classification function	1classifier	0supervised learning	1text classification	1training documents	0test set	0test data	0classification problem	1accuracy	0training set	1document	0documents	0document	0documents	0categories	0training data	0

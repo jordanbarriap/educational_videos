@@ -1,0 +1,1 @@
+language modeling approach	0information retrieval	0language model	0language model	0ir	0text classification	0effectiveness	0term weights	0tf-idf weights	0queries	0tf-idf based term weighting approach	0natural language queries	0tf-idf	0term weighting approach	0

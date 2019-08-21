@@ -1,0 +1,1 @@
+multinomial model	1vocabulary	0document	0documents	0binary independence model	0term	0terms	0time complexity	0binary occurrence	0classification	0generation models	0class	0tokens	0test document	0

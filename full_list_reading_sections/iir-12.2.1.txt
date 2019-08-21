@@ -1,0 +1,1 @@
+query likelihood model	1query likelihood language models	1ir	0language models	0language model	0document	0documents	0collection	0likelihood	0multinomial coefficient	0query	0random process	0query terms	0document model	0terms	0

@@ -1,0 +1,23 @@
+relevance feedback	0
+relevant documents	0
+relevant document	0
+nonrelevant documents	0
+classifier	0
+documents	0
+document	0
+ir	0
+probabilistic approach	0
+retrieval model	0
+term weights	0
+information needs	0
+information need	0
+query representations	0
+document representations	0
+index terms	0
+query	0
+probability theory	0
+term	0
+non-positional index	0
+vector space models	0
+probabilistic retrieval model	0
+probabilistic language modeling	0

@@ -1,0 +1,68 @@
+probabilistic methods	0
+ir	0
+computational linguistics	0
+term independence	0
+terms	0
+term	0
+query	0
+queries	0
+document relevance	0
+tf-idf	0
+non-binary model	0
+collections	0
+collection	0
+idf	0
+relevance feedback	0
+documents	0
+document	0
+query terms	0
+positive tuning parameter	0
+tuning parameters	0
+tuning parameter	0
+relevance judgments	0
+document term	0
+directed graphs	0
+probabilistic dependencies	0
+directed acyclic graphs	0
+document collection network	0
+query network	0
+probabilistic network	0
+statistical ranked retrieval model	0
+structured query operators	0
+probabilistic models	0
+probabilistic model	0
+relevance	0
+term weighting models	0
+term weighting scheme	0
+vector space	0
+cosine similarity	0
+probability theory	0
+probabilistic system	0
+tree structure	0
+term dependencies	0
+tree structure of dependencies	0
+full-text search collections	0
+term frequency	0
+document length	0
+weighting scheme	0
+document scoring	0
+idf weighting	0
+stop list	0
+document term frequency scaling	0
+term weight	0
+length normalization	0
+term frequency scaling	0
+document term frequency	0
+document length scaling	0
+term weighting method	0
+query vector	0
+information retrieval	0
+probabilistic graphical model	1
+information need	0
+query subexpressions	0
+machine learning	0
+term weight	0
+grid search	0
+okapi bm25	1
+okapi weighting		1
+bayesian networks	1

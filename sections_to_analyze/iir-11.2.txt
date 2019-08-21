@@ -1,0 +1,25 @@
+collection of documents	0
+query	0
+ordered list of documents	0
+binary notion of relevance	0
+document	0
+documents	0
+collection	0
+random variable	0
+probabilistic model	0
+probability of relevance	0
+information need	0
+nonrelevant document	0
+relevant document	0
+1/0 loss	1
+false positives	0
+false negatives	0
+ranked retrieval	0
+ordered list	0
+reference retrieval system	0
+accuracy	0
+relevance	0
+ir	0
+utility models	0
+bates risk	1
+probability ranking principle	1

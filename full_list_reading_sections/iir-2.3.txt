@@ -1,0 +1,1 @@
+postings list intersection	1skip pointers	0postings lists	0postings list	0skip list	1skip lists	1query	0query terms	0search engine	0term	0vocabulary	0skip list pointer	1skip span	1index	0index construction	0postings list data structures	0recall	0inverted index	0encoding	0disk postings list	0

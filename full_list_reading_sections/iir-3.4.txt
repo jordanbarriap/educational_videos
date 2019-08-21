@@ -1,0 +1,1 @@
+phonetic correction	1tolerant retrieval	0query	0phonetic hashing	1phonetic hash	1inverted index	0vocabulary terms	0soundex code	1soundex codes	1soundex index	1soundex	1soundex algorithms	1soundex algorithm	1soundex map	1equivalence class	0equivalence classes	0algorithms	0algorithm	0searches	0terms	0query terms	0soundex match	0string	0

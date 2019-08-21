@@ -1,0 +1,1 @@
+cluster cardinality	1distortion	1model complexity	1clustering	0clusterings	0clusters	0negative maximum log-likelihood	0vector space	0text clustering	0information retrieval	0heuristic method	0documents	0hard assignment	0covariance matrices	0flat clustering algorithms	0objective function	0centroids	0AKAIKE INFORMATION CRITERION	1AIC	1

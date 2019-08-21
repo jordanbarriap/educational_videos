@@ -1,0 +1,1 @@
+termsmultinomial modellanguage modelbag of wordsirunigram language modelmultinomial distributiontraining samplefine-grained topicmultinomial coefficientvocabularymodel distributionmultinomial distributions̢\\x80\\x9cbag of words̢\\x80\\x9d modelslanguage modelsdocumentlikelihood ratioterm vocabularymultinomial probabilityqueryspeech recognitionbag of words modelsunigram models

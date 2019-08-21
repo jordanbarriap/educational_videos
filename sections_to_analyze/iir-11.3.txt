@@ -1,0 +1,68 @@
+binary	0
+documents	0
+document	0
+queries	0
+query	0
+binary term incidence vectors	0
+term	0
+terms	0
+vector representation	0
+incidence vector	0
+probabilistic retrieval strategy	0
+relevance	0
+document relevance	0
+estimated probability of relevance	0
+document collection	0
+prior probability	0
+relevant document	0
+relevant documents	0
+relevant document	0
+relevant documents	0
+nonrelevant document	0
+collection	0
+ranking function	0
+query terms	0
+ranking of documents	0
+odds of relevance	0
+probability of relevance	0
+odds ratio	0
+relative frequency	0
+maximum likelihood estimate	0
+smoothing	0
+pseudocounts	0
+uniform distribution	0
+vocabulary	0
+maximum a posteriori	0
+frequency of term occurrence	0
+(pseudo-)relevance feedback	0
+iterative process	0
+relevance judgments	0
+pseudo-relevance feedback	0
+tf-idf	0
+probability function	0
+vector space model	0
+information need	0
+relevance feedback	0
+probabilistic retrieval	0
+term frequency	0
+document frequency	0
+document length	0
+probability of document relevance	0
+term incidence vectors	1
+term incidence vector	1
+term incidence vectors	1
+term incidence vector	1
+log odds ratios	1
+idf weighting	0
+probabilistic approaches	0
+relevance feedback weighting	0
+algorithm	0
+tf-idf value	0
+odds	0
+idf	0
+beta distribution prior	0
+prior distribution	0
+pseudo-relevance feedback version	0
+binary independence model	1
+maximum a posteriori	1
+maximum likelihood estimate	1

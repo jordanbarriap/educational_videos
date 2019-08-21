@@ -1,0 +1,1 @@
+language models	1language model	1query	0ir	0document	0generative model	0language theory	0finite automaton	0probabilistic finite automaton	0probability distribution	0document model	0language of the automaton	0likelihood ratio	1terms	0term emission probabilities	0

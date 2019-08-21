@@ -1,0 +1,132 @@
+grepping
+boolean retrieval model
+ad hoc retrieval
+information need
+incidence matrix
+term-document matrix
+normalized tokens
+document identifier
+query optimization
+free text queries
+free text querying
+proximity operator
+unstructured data
+support vectors
+decision hyperplane
+functional margin
+geometric margin
+quadratic optimization
+soft margin classification
+slack variables
+one-versus-one classifiers
+kernel trick
+kernel functions
+polynomial kernels
+polynomial kernel
+radial basis functions
+radial basis function
+quadratic kernel
+one-versus-rest classifiers
+outliers
+feature engineering
+tying parameters
+machine-learned scoring
+partitional hierarchical clustering
+exhaustive clusterings
+intra-cluster similarity
+internal criterion
+purity
+normalized mutual information
+false negative
+mi
+true positive
+true negative
+ri
+cluster cardinality
+distortion
+model complexity
+AKAIKE INFORMATION CRITERION
+residual sum of squares
+outliers
+singleton cluster
+model-based clustering
+em
+expectation step
+maximization step
+hard clustering
+soft clustering algorithms
+document unit
+indexing granularity
+ascii encoding
+multibyte encoding schemes
+decoding
+hyphen
+compounds
+compound-splitter
+stop list
+normalizations
+token normalization
+case-folding
+truecasing
+lemmatization
+lemmatizer
+lemma
+porter algorithm
+lovins stemmer
+type/token distinction
+token distinction
+tokenization phase
+phrase search
+phrase searches
+one-pass lovins stemmer
+skip list pointer
+phrase query
+positional indexes
+implicit phrase query
+implicit phrase queries
+biwords
+biword indexing model
+non-positional index
+b-tree
+b-trees
+trailing wildcard query
+trailing wildcard queries
+leading wildcard queries
+permuterm index
+permuterm vocabulary
+k-gram indexes
+k-gram index
+k-gram
+k-grams
+spelling correction algorithms
+isolated-term correction
+context-sensitive correction
+phonetic correction
+phonetic hashing
+phonetic hash
+soundex code
+soundex codes
+soundex index
+soundex algorithms
+soundex algorithm
+seek time
+blocked sort-based indexing
+index construction algorithms
+index construction algorithm
+external sorting algorithm
+blocked sort-based indexing algorithm
+single-pass in-memory indexing
+master node
+splits
+key-value pairs
+key-value pair
+map phase
+segment files
+segment file
+reduce phase
+reduce phases
+inverter
+inverters
+mapping splits
+auxiliary index
+logarithmic merging

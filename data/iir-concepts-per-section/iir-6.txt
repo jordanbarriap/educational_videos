@@ -1,0 +1,1 @@
+search enginetermsindexterm weightingquerydocument collectiondocumentsdocument collectionsvector space modelmetadatascoringindexesvector space scoringfree text queriestermboolean queriesquery termsterm-weightingparametric and zone indexesdocument

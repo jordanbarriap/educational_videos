@@ -1,0 +1,1 @@
+probability theory	0random variable	1joint probability	0conditional probability	0conditional probabilities	0conditional probability	0conditional probabilities	0partition rule	1chain rule	1prior probability	1posterior probability	1likelihood	0odds	0bayes rule	1
